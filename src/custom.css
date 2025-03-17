@@ -1,0 +1,8 @@
+/* src/custom.css */
+.App .owl-theme .owl-dot {
+    zoom: 1;
+    display: inline-block !important; /* Use !important to ensure override */
+    /* Remove problematic line */
+    /* *display: inline; */
+  }
+  
